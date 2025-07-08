@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#7BAF9E"         # pastel green (utama)
+backgroundColor = "#F7FDFB"      # super soft putih kehijauan
+secondaryBackgroundColor = "#E6F4F1"  # pastel mint
+textColor = "#2F3E46"            # agak gelap biar jelas
+font = "sans serif"
